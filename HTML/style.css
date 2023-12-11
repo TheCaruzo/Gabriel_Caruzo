@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Catamaran&family=Gudea&family=Passion+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Catamaran&family=Gudea&family=Passion+One&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    box-sizing:  border-box;
+    background-color: black;
+    color:white ;
+    
+}
+.tela{
+    margin: 8%;
+    display: flex;
+    margin: 10%;
+    align-items: center;
+    justify-content: space-between;
+}
+.tela_titulo{ 
+
+    color: #22D4FD;
+}
+
+
+.tela_conteudo{
+    width: 615px;
+    font-size: 12px;
+  
+
+}
+
+.titulo_principal{
+    font-size: 36px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Gudea', sans-serif;
+font-family: 'Passion One', sans-serif;
+    
+}
+.titulo_sobre{
+    color: #22D4FD;
+    font-size: 36px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Gudea', sans-serif;
+font-family: 'Passion One', sans-serif;
+    
+
+}
+
+
+.texto_sobre{
+    text-align: justify;
+    font-size: 24px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Gudea', sans-serif;
+font-family: 'Passion One', sans-serif;
+}
+
+.titulo_skil{ 
+    color: #22D4FD;
+    font-size: 36px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Gudea', sans-serif;
+font-family: 'Passion One', sans-serif;
+}
+
+
+.texto_skill{
+    text-align: justify;
+    font-size: 24px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Gudea', sans-serif;
+font-family: 'Passion One', sans-serif;
+}
+
+.rede{
+    color: #22D4FD;
+    font-size: 36px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Gudea', sans-serif;
+font-family: 'Passion One', sans-serif;
+}
+
+.botoes {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 50px;
+    padding: 24px;
+    }
+
+.
+
+.botao_linkedin{
+    text-align: center;
+    justify-content: space-between;
+    border-radius: 16px;
+    font-size: 24px;
+}
+
+
+.botao_github{ 
+    text-align: center;
+    justify-content: space-between;
+    border-radius: 16px;
+    font-size: 24px;
+
+}
